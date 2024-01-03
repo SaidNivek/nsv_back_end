@@ -1,1 +1,2 @@
-export const schemaTypes = []
+import hours from "./hours"
+export const schemaTypes = [hours]
