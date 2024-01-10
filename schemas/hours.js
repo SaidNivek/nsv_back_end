@@ -13,5 +13,10 @@ export default {
             title:'Hours',
             type: 'string'
         },
+        {
+            name:'location',
+            title:'Location',
+            type: 'string'
+        },
     ]
 }
