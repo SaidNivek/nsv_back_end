@@ -9,6 +9,11 @@ export default {
             type: 'string'
         },
         {
+            name:'state',
+            title:'State',
+            type: 'string'
+        },
+        {
             name:'street',
             title:'Street',
             type: 'string'
