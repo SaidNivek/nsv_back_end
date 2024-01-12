@@ -1,5 +1,5 @@
 export default {
-    name:'location',
+    name:'locations',
     title:'Locations',
     type:'document',
     fields: [
