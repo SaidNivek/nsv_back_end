@@ -28,5 +28,40 @@ export default {
             title:'Phone',
             type: 'string'
         },
+        {
+            name:'mon',
+            title:'Mon',
+            type: 'string'
+        },
+        {
+            name:'tue',
+            title:'Tue',
+            type: 'string'
+        },
+        {
+            name:'ded',
+            title:'Wed',
+            type: 'string'
+        },
+        {
+            name:'thu',
+            title:'Thu',
+            type: 'string'
+        },
+        {
+            name:'fri',
+            title:'Fri',
+            type: 'string'
+        },
+        {
+            name:'sat',
+            title:'Sat',
+            type: 'string'
+        },
+        {
+            name:'sun',
+            title:'Sun',
+            type: 'string'
+        },
     ]
 }
