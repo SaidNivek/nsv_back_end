@@ -39,7 +39,7 @@ export default {
             type: 'string'
         },
         {
-            name:'ded',
+            name:'wed',
             title:'Wed',
             type: 'string'
         },
