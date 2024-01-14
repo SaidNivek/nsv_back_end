@@ -1,2 +1,3 @@
 import locations from "./locations"
-export const schemaTypes = [locations]
+import promotions from "./promotions"
+export const schemaTypes = [locations, promotions]
