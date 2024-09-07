@@ -5,8 +5,13 @@ export default {
     fields: [
         {
             name:'caption',
+            type: 'string',
             title:'Caption',
-            type: 'string'
         },
+        {
+            name: 'attribution',
+            type: 'string',
+            title: 'Attribution',
+          }
     ]
 }
